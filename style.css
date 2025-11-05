@@ -1,0 +1,58 @@
+/* Style global */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+section {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+h2 {
+    color: #444;
+    margin-bottom: 1rem;
+}
+ul {
+    list-style-type: disc;
+    margin-left: 2rem;
+}
+
+.project {
+    background-color: #eee;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    background-color: #222;
+    color: #fff;
+    padding: 1rem;
+}
+footer a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
